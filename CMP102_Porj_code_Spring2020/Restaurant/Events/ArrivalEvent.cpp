@@ -15,6 +15,8 @@ void ArrivalEvent::Execute(Restaurant* pRest)
 	
 	//Hamadaaa
 
+	//Hamada
+
 	///For the sake of demo, this function will just create an order and add it to DemoQueue
 	///Remove the next code lines in phases 1&2
 	Order* pOrd = new Order(OrderID,OrdType);
